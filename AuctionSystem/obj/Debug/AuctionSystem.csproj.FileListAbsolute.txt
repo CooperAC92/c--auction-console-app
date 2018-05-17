@@ -1,0 +1,24 @@
+c:\users\adam\documents\visual studio 2013\Projects\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe.config
+C:\Users\Adam\documents\visual studio 2013\Projects\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csprojResolveAssemblyReference.cache
+C:\Users\Adam\documents\visual studio 2013\Projects\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe
+C:\Users\Adam\documents\visual studio 2013\Projects\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.pdb
+C:\Users\Adam\documents\visual studio 2013\Projects\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.exe
+C:\Users\Adam\documents\visual studio 2013\Projects\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.pdb
+E:\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe.config
+E:\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.exe
+E:\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.pdb
+E:\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe
+E:\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.pdb
+E:\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csprojResolveAssemblyReference.cache
+G:\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe.config
+G:\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.exe
+G:\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.pdb
+G:\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe
+G:\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.pdb
+G:\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csprojResolveAssemblyReference.cache
+F:\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe.config
+F:\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.exe
+F:\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.pdb
+F:\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe
+F:\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.pdb
+F:\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csprojResolveAssemblyReference.cache
